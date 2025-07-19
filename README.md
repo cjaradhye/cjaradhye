@@ -11,6 +11,6 @@
 - Former **Software Developer Intern** at algoleap - Built AI pipeline reducing video review time by 70%
 - **150+ LeetCode problems** solved across core DSA topics
 
-**"Code is poetry, and I'm writing the next chapter."** ✨
+**"Code is like humor. When you have to explain it, it's bad."** ✨
 
 *Last updated: July 2025*
