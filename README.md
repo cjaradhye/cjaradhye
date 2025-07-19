@@ -1,4 +1,4 @@
-![Demo](demo.gif)
+![Demo](temp.gif)
 
 > Full-stack developer and AI engineer who builds production applications for real users.
 
