@@ -2,9 +2,9 @@
 
 > Full-stack developer and AI engineer who builds production applications for real users.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aradhye-swarup)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aradhyeswarup)
 [![RESUME](https://img.shields.io/badge/RESUME-grey?style=for-the-badge)](https://cjaradhye.github.io)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aradhye)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/cj_aradhye)
 
 - **AWS Certified Solutions Architect** – July 2025  
 - **Founded nahneed.** – Scaled to 50+ users in 1 month, reached startup competition finals  
