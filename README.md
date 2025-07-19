@@ -1,3 +1,5 @@
+![Demo](demo.gif)
+
 > Full-stack developer and AI engineer who builds production applications for real users.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aradhye-swarup)
