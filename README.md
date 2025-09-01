@@ -10,8 +10,8 @@
 - **AWS Certified Solutions Architect** – July 2025  
 - **Founded nahneed.** – Scaled to 50+ users in 1 month, reached startup competition finals  
 - Former **Software Developer Intern** at algoleap – Built AI pipeline reducing video review time by 70%  
-- **150+ LeetCode problems** solved across core DSA topics  
+- **200+ LeetCode problems** solved across core DSA topics  
 
 **"Code is like humor. When you have to explain it, it's bad."** ✨
 
-*Last updated: July 2025*
+*Last updated: August 2025*
