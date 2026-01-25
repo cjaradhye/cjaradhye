@@ -7,6 +7,7 @@
 [![RESUME](https://img.shields.io/badge/RESUME-grey?style=for-the-badge)](https://cjaradhye.github.io/aradhyeSwarupResume.pdf)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-red?style=for-the-badge)](https://aradhyeswarup.xyz)
 
+- **SDE Intern** at Thermo Fisher Scientific 
 - **AWS Certified Solutions Architect** – July 2025  
 - **Founded nahneed.** – Scaled to 50+ users in 1 month, reached startup competition finals  
 - Former **Software Developer Intern** at algoleap – Built AI pipeline reducing video review time by 70%  
@@ -14,4 +15,4 @@
 
 **"Code is like humor. When you have to explain it, it's bad."** ✨
 
-*Last updated: August 2025*
+*Last updated: Jan 2026*
